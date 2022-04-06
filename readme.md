@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **React, Angular, Java**
 
-- 📫 How to reach me **diego.montealegre@mercadolibre.com.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
